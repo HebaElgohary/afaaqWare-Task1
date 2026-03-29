@@ -6,6 +6,8 @@ export default function page() {
   return (
     <div>
       <AboutSection />
+      <ServiceSection />
+  
    
 
     </div>
